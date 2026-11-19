@@ -55,3 +55,7 @@ Keep **every part PNG and manifest.json together**. The manifest stores shard or
 - This version reads the full input into RAM. Very large files need sufficient memory and disk space.
 - No redundancy/parity is added: losing one shard prevents recovery. Keep a separate backup.
 - Before deleting the source, pack, verify, unpack and compare hashes.
+- 
+## Preview 
+
+![Tool Work Preview](20261119_201742.jpg)
